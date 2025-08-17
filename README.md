@@ -12,12 +12,17 @@
 - 📈 RAG API served **300+ daily queries** at **< 3s** latency.
 
 ### Featured Projects
-- **[multilingual-multihop-rag](https://github.com/carjes232/multilingual-multihop-rag)** — RAG API (FastAPI) + pgvector, evals (recall@k, latency), local LLMs via Ollama.
+- **[multilingual-multihop-rag](https://github.com/carjes232/multilingual-multihop-rag)** — FastAPI RAG + pgvector, evals (recall@k, latency), local LLMs via Ollama.
 - **[stock_page](https://github.com/carjes232/stock_page)** — Go + Gin + CockroachDB: data ingestor, REST API, ranking/recommendations.
 - **[Transcribe-assemblyai](https://github.com/carjes232/Transcribe-assemblyai)** — Chunked audio transcription with overlap + responsive UI.
-- **[docker-wyze-bridge](https://github.com/carjes232/docker-wyze-bridge)** — Python glue for Wyze RTSP/bridge automation in Docker.
+- **[AzureLLMs](https://github.com/carjes232/AzureLLMs)** — Experiments with Azure LLMs; prompt patterns and small APIs.
 - **[wyze-lab-monitor](https://github.com/carjes232/wyze-lab-monitor)** — Minimal web UI to monitor camera/stream state.
-- **[IntroductiontoGenerativeAI](https://github.com/carjes232/IntroductiontoGenerativeAI)** — Notebook walkthroughs for GenAI concepts.
+- **[docker-wyze-bridge](https://github.com/carjes232/docker-wyze-bridge)** — Python glue for Wyze RTSP/bridge automation in Docker.
+
+### Legacy work (old handle)
+Some coursework/early projects lived under my previous handle. Public references:
+- Forks preserved here (showing provenance): **Robotica_dacardenasj**, **STM32CortexM4ElectronicaDigital**, **Learning_RTOS_STM32**.
+- Originals: https://github.com/Carjes23 (read-only reference).
 
 ### Tech I use
 ![Python](https://img.shields.io/badge/Python-✓-blue)
@@ -30,6 +35,6 @@
 ![Linux](https://img.shields.io/badge/Linux-✓-blue)
 
 ### About me
-- 🌎 Languages: ES 🇨🇴 · EN (C1) · PT (A2)
+- 🌎 ES 🇨🇴 · EN (C1) · PT (A2)
 - 📫 Reach me: **erdan262003@gmail.com** · **LinkedIn:** https://www.linkedin.com/in/dancarjes/
 - 🎯 Open to: Remote **ML / Data / Backend** roles
