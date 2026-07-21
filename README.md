@@ -1,40 +1,47 @@
-# Hey, I'm Daniel 👋
+# Hey, I'm Daniel Cárdenas 👋
 
-**ML & Backend Engineer** · Python & Go · PostgreSQL/pgvector · Docker · FastAPI/Gin
+**AI/ML Engineer · Engineering Physics graduate · Campinas, São Paulo, Brazil**
 
-- 🔭 Building: **Multilingual, multi-hop RAG** with pgvector + Ollama (local-first).
-- 🧪 Shipping: **Stock advisor demo** (Go + Gin + CockroachDB) with ingestor + recommender.
-- 🛰️ Also: Embedded/Linux (MQTT, smart devices) and audio transcription tooling.
+I build production-oriented AI systems across documents, business workflows, backend services, cloud environments, and connected devices. My background spans RAG, multi-step agents, Python APIs, PostgreSQL, embedded firmware, and real-time machine learning.
 
-### Impact
-- ⏱️ Edge ML inference **< 2s** on smart-meter devices.
-- ⚡ Pandas/SQLAlchemy pipeline cut from **1 week → < 10 minutes**.
-- 📈 RAG API served **300+ daily queries** at **< 3s** latency.
+## What I'm working on
 
-### Featured Projects
-- **[multilingual-multihop-rag](https://github.com/carjes232/multilingual-multihop-rag)** — FastAPI RAG + pgvector, evals (recall@k, latency), local LLMs via Ollama.
-- **[stock_page](https://github.com/carjes232/stock_page)** — Go + Gin + CockroachDB: data ingestor, REST API, ranking/recommendations.
-- **[Transcribe-assemblyai](https://github.com/carjes232/Transcribe-assemblyai)** — Chunked audio transcription with overlap + responsive UI.
-- **[AzureLLMs](https://github.com/carjes232/AzureLLMs)** — Experiments with Azure LLMs; prompt patterns and small APIs.
-- **[wyze-lab-monitor](https://github.com/carjes232/wyze-lab-monitor)** — Minimal web UI to monitor camera/stream state.
-- **[docker-wyze-bridge](https://github.com/carjes232/docker-wyze-bridge)** — Python glue for Wyze RTSP/bridge automation in Docker.
+- Building AI-assisted document and workflow automation with Python, TypeScript/React, PostgreSQL/Supabase, APIs, and human-review controls.
+- Developing retrieval and agent-integration components, evaluation and regression workflows, automated document generation, Docker tooling, and runtime reliability improvements.
+- Exploring reliable agentic systems that combine LLM reasoning with deterministic tools, structured evidence, validation, and auditable delivery.
 
-### Legacy work (old handle)
-Some coursework/early projects lived under my previous handle. Public references:
-- Forks preserved here (showing provenance): **Robotica_dacardenasj**, **STM32CortexM4ElectronicaDigital**, **Learning_RTOS_STM32**.
-- Originals: https://github.com/Carjes23 (read-only reference).
+## Experience highlights
 
-### Tech I use
-![Python](https://img.shields.io/badge/Python-✓-blue)
-![Go](https://img.shields.io/badge/Go-✓-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-✓-blue)
-![pgvector](https://img.shields.io/badge/pgvector-✓-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-✓-blue)
-![Gin](https://img.shields.io/badge/Gin-✓-blue)
-![Docker](https://img.shields.io/badge/Docker-✓-blue)
-![Linux](https://img.shields.io/badge/Linux-✓-blue)
+- **Agentic AI:** Implemented multi-step document workflows covering context acquisition, task routing, generation, validation, approval, versioning, and delivery.
+- **RAG and LLM systems:** Built vector-retrieval workflows with FAISS, PostgreSQL/pgvector, Qdrant, embeddings, semantic search, prompt evaluation, and evidence-grounded responses.
+- **Edge ML:** Led the machine-learning component of a real-time energy load-disaggregation system operating at 10 Hz with sub-two-second inference latency.
+- **Embedded systems:** Developed STM32/ARM Cortex-M4 firmware with FreeRTOS, interrupts, timers, sensor interfaces, telemetry, OTA support, and watchdog/recovery behavior.
+- **Backend and cloud:** Worked with FastAPI, Flask, Django, Supabase, AWS, Azure-hosted LLM services, Docker, REST APIs, CI/CD, and automated testing.
 
-### About me
-- 🌎 ES 🇨🇴 · EN (C1) · PT (A2)
-- 📫 Reach me: **erdan262003@gmail.com** · **LinkedIn:** https://www.linkedin.com/in/dancarjes/
-- 🎯 Open to: Remote **ML / Data / Backend** roles
+## Selected public projects
+
+- **[multilingual-multihop-rag](https://github.com/carjes232/multilingual-multihop-rag)** — Local-first multilingual RAG using FastAPI, pgvector, evaluation tooling, and local LLMs.
+- **[Robotica_dacardenasj](https://github.com/carjes232/Robotica_dacardenasj)** — STM32/FreeRTOS mobile robotics with IMU heading control, PID, odometry, telemetry, and on-device A* path planning.
+- **[STM32CortexM4ElectronicaDigital](https://github.com/carjes232/STM32CortexM4ElectronicaDigital)** — Bare-metal ARM Cortex-M4 drivers, peripheral interfaces, displays, and memory-constrained applications.
+- **[Transcribe-assemblyai](https://github.com/carjes232/Transcribe-assemblyai)** — Chunked audio transcription with overlap handling and a responsive web interface.
+- **[personal-site](https://github.com/carjes232/personal-site)** — Next.js and MDX portfolio documenting selected AI, backend, embedded, and academic projects.
+
+## Technical toolkit
+
+- Languages: `Python` · `C/C++` · `TypeScript/JavaScript` · `SQL` · `Go`
+- AI and data: `RAG` · `LLM agents` · `FAISS` · `PostgreSQL/pgvector` · `Qdrant` · `Pandas`
+- Backend and cloud: `FastAPI` · `Flask` · `Django` · `React` · `Supabase` · `AWS` · `Azure` · `Docker`
+- Systems: `STM32` · `ARM Cortex-M4` · `FreeRTOS` · `ESP32` · `MQTT`
+
+## Background
+
+- **Ingeniero Físico (Engineering Physics)** — Universidad Nacional de Colombia, 2025; cumulative GPA **4.5/5.0**.
+- Former Teaching Assistant in mobile robotics, ARM microcontrollers, embedded systems, simulations, and mobile technologies.
+- **IELTS Academic — Overall Band 7.0, CEFR C1, July 2026.**
+- Spanish native; English C1.
+
+## Connect
+
+- [Portfolio](https://dev.danielcardenas.dev)
+- [LinkedIn](https://www.linkedin.com/in/dancarjes/)
+- [Email](mailto:erdan262003@gmail.com)
