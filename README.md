@@ -1,6 +1,6 @@
 # Hey, I'm Daniel 👋
 
-**ML & Backend Engineer** · Applied Math (MSc) · Python & Go · PostgreSQL/pgvector · Docker · FastAPI/Gin
+**ML & Backend Engineer** · Python & Go · PostgreSQL/pgvector · Docker · FastAPI/Gin
 
 - 🔭 Building: **Multilingual, multi-hop RAG** with pgvector + Ollama (local-first).
 - 🧪 Shipping: **Stock advisor demo** (Go + Gin + CockroachDB) with ingestor + recommender.
