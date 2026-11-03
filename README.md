@@ -1,4 +1,4 @@
-# Daniel Cárdenas
+# Daniel Cardenas
 
 **AI & Systems Engineer · Applied AI, Backend & Edge ML**
 
